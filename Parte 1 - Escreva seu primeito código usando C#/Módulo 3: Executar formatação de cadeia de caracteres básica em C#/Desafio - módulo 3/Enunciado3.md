@@ -14,3 +14,12 @@ Você não pode alterar essas duas linhas de código, mas pode adicionar código
 - Você só pode usar o `Console.WriteLine()` ou o método `Console.Write()` duas vezes.  
 
 Em outras palavras, para concluir esse desafio, você só pode criar duas instruções que realmente imprimem a saída no console. Se você precisar imprimir novas linhas adicionais ou adicionar qualquer formatação, deverá usar o que aprendeu neste módulo para realizar a tarefa.
+
+Para concluir esse desafio, seu código deve produzir a saída a seguir.
+~~~
+View English output:
+  c:\Exercise\ACME\data.txt
+
+Посмотреть русский вывод:
+  c:\Exercise\ACME\ru-RU\data.txt
+~~~
