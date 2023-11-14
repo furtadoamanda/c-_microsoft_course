@@ -66,7 +66,7 @@ Elas podem ser atribuídas, lidas e alteradas.
  3. os nomes de variáveis precisam começar com uma letra alfabética ou um underline (preferencialmente uma letra), não um número
  4. os nomes de variáveis diferenciam maiúsculas e minúsculas (Value *não* é a mesma coisa que value)
 5. nomes de variáveis não podem ser uma palavra-chave do C#
-6. os nomes de variáveis devem usar **minúsculas concatenadas** (CamelCase iniciado por minúscula), que é um estilo de escrita que usa uma letra minúscula no início da primeira palavra e uma letra maiúscula no início de cada palavra subsequente.
+6. os nomes de variáveis devem usar **minúsculas concatenadas** (camelCase), que é um estilo de escrita que usa uma letra minúscula no início da primeira palavra e uma letra maiúscula no início de cada palavra subsequente.
  7. os nomes de variáveis devem ser descritivos e sugestivos, no contexto do aplicativo
  8. nomes de variáveis devem ser uma ou mais palavras inteiras unidas, não contrações ou abreviações
  9. nomes de variáveis não devem incluir o tipo de dados da variável  
