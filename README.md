@@ -2,7 +2,7 @@
 
 Curso de Introdução ao C# oferecido pela Microsoft.
 
-- [ ] Escreva sem primeiro código usando C# :on:
+- [ ] Escreva seu primeiro código usando C# :on:
 - [ ] Criar e executar aplicativos de console C# simples
 - [ ] Adicionar lógica a aplicativos de console C#
 - [ ] Trabalhar com  os dados variáveis em aplicativos de console C#
