@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CsharpProjects/TestProject/TestProject.csproj",
+      "projectUniqueName": "/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CsharpProjects/TestProject/TestProject.csproj",
+      "projectPath": "/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/TestProject.csproj",
       "packagesPath": "/Users/amandafurtado/.nuget/packages/",
-      "outputPath": "/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CsharpProjects/TestProject/obj/",
+      "outputPath": "/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/amandafurtado/.nuget/NuGet/NuGet.Config"

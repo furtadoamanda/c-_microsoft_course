@@ -1,0 +1,15 @@
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll

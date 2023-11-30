@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aHc60OwDZLCPmNoy+65w+8PnJUa2cOk2Ld3YRf/XlIbVJjkwNqJX+XwsH57UHgI3jfi0xTL+GqfEbhg20DRQoA==",
+  "dgSpecHash": "ow5nVk2qHi/7PMhVBdmBW+SRsb6dslTOlFa8FRlSYErqPu1+EKWHV7TlCePgO0K9Xmp99mTDbMFuf4LoXJZmPQ==",
   "success": true,
-  "projectFilePath": "/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CSharpProjects/TestProject/TestProject.csproj",
+  "projectFilePath": "/Users/amandafurtado/Documents/GitHub/c-_microsoft_course/CsharpProjects/TestProject/TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
