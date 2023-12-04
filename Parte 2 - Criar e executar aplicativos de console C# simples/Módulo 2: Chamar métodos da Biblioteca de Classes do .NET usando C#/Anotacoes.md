@@ -29,3 +29,7 @@ Console.WriteLine(roll);
 // Esse código cria uma instância da classe Random chamada dice. Em seguida, ele usa dice.Next(1, 7) para atribuir um valor aleatório a um número inteiro chamado roll. Nesse caso, o método Next() aceita dois parâmetros, que são usados para configurar os limites inferior e superior do novo número aleatório. Observe que os argumentos são separados por um símbolo ,. Finalmente, ele usa o método Console.WriteLine() para imprimir o valor de roll no console. Nesse caso, ambos os métodos estão usando parâmetros de entrada.
 ~~~
 
+#### Retornar valores e parâmetros de entrada de métodos
+
+- *Métodos nulos* não retornam um valor quando são finalizados
+- Métodos não nulos são projetados para retornar um valor após a conclusão, sendo este valor de retorno normalmente o resultado de uma operação -> ao chamar um método que retorna um valor, geralmente se atribui o valor de retorno a uma variável, tornando possível utilizar o valor posteriormente no código
