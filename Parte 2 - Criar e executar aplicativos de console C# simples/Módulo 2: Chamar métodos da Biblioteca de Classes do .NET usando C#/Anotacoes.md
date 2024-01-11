@@ -3,7 +3,7 @@
 #### Métodos com estado vs. sem estado:
 - Métodos sem estado (*métodos estáticos*): não dependem do estado atual do aplicativo; são implementados para funcionar sem referenciar ou alterar valores já armazenados na memória 
 Exemplo: Console.WriteLine()
-- Métodos com estado (*métodos de instância*): são construídos de maneira que os torna dependentes de valores armazenados na memória por linhas de código anteriores já executadas; ou modificam o estado do aplicativo atualizando valores ou armazenando novos valores na memória -> controlam seu estado em _campos_, que são variáveis definidas na classe (cada noca instância da classe tem sua própria cópia desses campos nos quais o estado é armazenado)  
+- Métodos com estado (*métodos de instância*): são construídos de maneira que os torna dependentes de valores armazenados na memória por linhas de código anteriores já executadas; ou modificam o estado do aplicativo atualizando valores ou armazenando novos valores na memória -> controlam seu estado em _campos_, que são variáveis definidas na classe (cada nova instância da classe tem sua própria cópia desses campos nos quais o estado é armazenado)  
 *OBS:* Uma única classe pode dar suporte a métodos com e sem estado  
 
 ~~~csharp
@@ -14,7 +14,7 @@ Random dice = new();
 O operador `new` cria uma instância de uma classe, chamada de _objeto_.
 
 ## Retornar valores e parâmetros de entrada de métodos
-- Métodos nulos: não retornam um valor quando são finalizados
+- Métodos nulos/vazios: não retornam um valor quando são finalizados
 
 #### Parâmetros de entrada:
 Parâmetro = informação consumida por um método.  
@@ -33,3 +33,21 @@ Console.WriteLine(roll);
 
 - *Métodos nulos* não retornam um valor quando são finalizados
 - Métodos não nulos são projetados para retornar um valor após a conclusão, sendo este valor de retorno normalmente o resultado de uma operação -> ao chamar um método que retorna um valor, geralmente se atribui o valor de retorno a uma variável, tornando possível utilizar o valor posteriormente no código
+
+#### Métodos sobrecarregados
+Um método sobrecarregado é definido com múltiplas assinaturas de método, fornecendo maneiras diferentes de chamar o método ou fornecer diferentes tipos de dados.
+Exemplo:
+~~~csharp
+int number = 7;
+string text = "seven";
+
+Console.WriteLine(number);
+Console.WriteLine();
+Console.WriteLine(text);
+// Nesse exemplo de código, três versões sobrecarregadas separadas do método WriteLine() são invocadas:
+// a) a primeira usa uma assinatura de método que define um int parâmetro
+// b) a segunda define parâmetros de entrada zero
+// c) a terceira define um string parâmetro
+~~~
+OBS: Os parâmetros de entrada alternativos podem ser usados para fornecer mais controle sobre o resultado desejado.
+
