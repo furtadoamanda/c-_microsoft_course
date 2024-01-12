@@ -9,3 +9,8 @@ A instrução `if` é uma ramificação de código muito usada e baseia-se numa 
 - `<`, o operador "menor que", para testar se o valor à esquerda é menor do que o valor à direita
 - `>=`, que é “maior que ou igual ao operador”
 - `<=`, que é “menor que ou igual ao operador”
+
+#### Operadores lógicos:
+- `||`, o operador lógico OU
+- `&&`, o operador lógico E
+
