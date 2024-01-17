@@ -101,12 +101,25 @@
 
 
 //Desafio4
-string[] fraudulentIDs = {"B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"};
+// string[] fraudulentIDs = {"B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"};
 
-foreach (string item in fraudulentIDs)
-{
-    if (item.StartsWith("B"))
-    {
-        Console.WriteLine(item);
-    }
-}
+// foreach (string item in fraudulentIDs)
+// {
+//     if (item.StartsWith("B"))
+//     {
+//         Console.WriteLine(item);
+//     }
+// }
+
+
+// ------------- PARTE 3: -------------
+// ----- MÓDULO 1 ------
+
+Console.WriteLine("a" == "a");
+Console.WriteLine("a" == "A");
+Console.WriteLine(1 == 2);
+
+string myValue = "a";
+Console.WriteLine(myValue == "a");
+
+
