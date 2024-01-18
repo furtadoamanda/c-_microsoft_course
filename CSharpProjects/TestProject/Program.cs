@@ -115,11 +115,35 @@
 // ------------- PARTE 3: -------------
 // ----- MÓDULO 1 ------
 
-Console.WriteLine("a" == "a");
-Console.WriteLine("a" == "A");
-Console.WriteLine(1 == 2);
+// Console.WriteLine("a" == "a");
+// Console.WriteLine("a" == "A");
+// Console.WriteLine(1 == 2);
 
-string myValue = "a";
-Console.WriteLine(myValue == "a");
+// string myValue = "a";
+// Console.WriteLine(myValue == "a");
+
+
+// ------- DESAFIO 1.1 -------------
+// Random coin = new Random();
+// int flip = coin.Next(1,3);
+// if (flip == 1)
+// {
+//     Console.WriteLine("Heads");
+// } else {
+//     Console.WriteLine("Tails");
+// }
+
+// ------------- DESAFIO 1.2 ----------
+string permission = "Admin|Manager";
+int level = 55;
+
+Console.WriteLine(((permission.Contains("Admin")) && (level > 55)) ? "Welcome, Super Admin user." : "Welcome, Admin user.");
+
+Console.WriteLine(((permission.Contains("Manager")) && (level >= 20)) ? "Contact an Admin for access." : "You do not have sufficient privileges.");
+
+if((!permission.Contains("Admin")) && (!permission.Contains("Manager")))
+{
+    Console.WriteLine("You do not have sufficient privileges." );
+}
 
 
