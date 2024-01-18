@@ -133,17 +133,27 @@
 //     Console.WriteLine("Tails");
 // }
 
-// ------------- DESAFIO 1.2 ----------
-string permission = "Admin|Manager";
-int level = 55;
+// ----------- MÓDULO 2 -----------
+// bool flag = true;
+// if (flag)
+// {
+//     int value = 10;
+//     Console.WriteLine($"Inside of code block: {value}");
+// }
 
-Console.WriteLine(((permission.Contains("Admin")) && (level > 55)) ? "Welcome, Super Admin user." : "Welcome, Admin user.");
+// ------ DESAFIO 2 -------
+int[] numbers = { 4, 8, 15, 16, 23, 42 };
+int total = 0;
 
-Console.WriteLine(((permission.Contains("Manager")) && (level >= 20)) ? "Contact an Admin for access." : "You do not have sufficient privileges.");
-
-if((!permission.Contains("Admin")) && (!permission.Contains("Manager")))
+foreach (int number in numbers)
 {
-    Console.WriteLine("You do not have sufficient privileges." );
+    total += number;
+
+    if (number == 42)
+    {
+        Console.WriteLine("Set contains 42");
+    }
 }
 
+Console.WriteLine($"Total: {total}");
 
