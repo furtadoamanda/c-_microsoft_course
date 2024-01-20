@@ -52,3 +52,5 @@ switch(product[2])
 }
 
 Console.WriteLine($"Product: {size} {color} {type}");
+
+
