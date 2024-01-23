@@ -1,4 +1,4 @@
-## Introdução às noções bnásicas de array
+## Introdução às noções básicas de array
 
 > Uma matriz é uma sequência de elementos de dados individuais acessíveis através de um único nome de variável. É utilizado um índice numérico iniciado em zero para aceder a cada elemento de uma matriz. Como você pode ver, as matrizes permitem que você colete dados semelhantes que compartilham uma finalidade ou características comuns em uma única estrutura de dados para facilitar o processamento.
 
