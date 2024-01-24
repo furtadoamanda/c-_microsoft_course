@@ -60,3 +60,9 @@ Console.WriteLine($"Last number: {current}");
 
 > :pencil: A `do-while` instrução itera através de um bloco de código pelo menos uma vez e pode continuar a iterar com base em uma expressão booleana. A avaliação da expressão booleana geralmente depende de um determinado valor gerado ou obtido dentro do bloco de código.  
 A instrução `while` começa por avaliar uma expressão booleana e, em seguida, continua a iterar o bloco de código, desde que a expressão booleana seja avaliada como true.
+
+RELEMBRANDO:
+- A `for` instrução: executa seu corpo enquanto uma expressão booleana especificada (a 'condição') é avaliada como verdadeira.
+- A `foreach` instrução: enumera os elementos de uma coleção e executa seu corpo para cada elemento da coleção.
+- A `do-while` afirmação: condicionalmente executa seu corpo uma ou mais vezes.
+- A `while` afirmação: condicionalmente executa seu corpo zero ou mais vezes.
